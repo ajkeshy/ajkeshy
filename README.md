@@ -31,4 +31,43 @@ Welcome to my GitHub! I'm a **Cloud Engineer** with a strong focus on **AWS** an
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 📚 Languages & Scripting
-![Python](https://img.shields.io/b
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+- 🛠 **Terraform** & **Infrastructure as Code**  
+- 🔄 **CI/CD Pipelines** with Jenkins & GitHub Actions  
+- 🐳 **Docker & Kubernetes** for container orchestration  
+- 🐍 Deepening my **Python** skills
+
+---
+
+## 🎯 Goals for 2025
+  
+- 🍰 Perfect my banana bread recipe  
+- 🚀 Contribute to Open Source Projects  
+- 📈 Grow my GitHub with new and exciting projects  
+
+---
+
+## 📚 Recent Reads
+
+1. 📘 *"The Phoenix Project"* - A must-read for anyone entering the DevOps world!
+  2. 📙 *"Ego is the Enemy"* by Ryan Holiday - Making my way through life, one day at a time.
+3. 📗 *"AWS Certified Solutions Architect"* - Strengthening my cloud fundamentals.
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](www.linkedin.com/in/ajokekeshiro)
+- 🌐 [Personal Blog](https://ajokekeshiro.com/)
+- 📧 [Email Me](mailto:ajkeshy@gmail.com)
+
+---
+
+🌐 "Clouds aren't just for rainy days - they're for building scalable, resilient solutions!" ☁️
