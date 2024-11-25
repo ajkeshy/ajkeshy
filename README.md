@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Ajoke] but my friends call me [AJ]!
+# 👋 Hey there, I'm Ajoke but my friends call me AJ!
 
 Welcome to my GitHub! I'm a **Cloud Engineer** with a strong focus on **AWS** and **Azure**, on a mission to grow my skills and eventually master the world of **DevOps**! 🚀
 
