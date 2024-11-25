@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a **Cloud Engineer** with a strong focus on **AWS** an
 
 ## 🎯 Goals for 2025
   
-- 🍰 Perfect my banana bread recipe  
+- 🍰 Perfect my banana bread and blondies recipe  
 - 🚀 Contribute to Open Source Projects  
 - 📈 Grow my GitHub with new and exciting projects  
 
@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm a **Cloud Engineer** with a strong focus on **AWS** an
 ## 📚 Recent Reads
 
 1. 📘 *"The Phoenix Project"* - A must-read for anyone entering the DevOps world!
-  2. 📙 *"Ego is the Enemy"* by Ryan Holiday - Making my way through life, one day at a time.
+ 2. 📙 *"Ego is the Enemy"* by Ryan Holiday - Making my way through life, one day at a time.
 3. 📗 *"AWS Certified Solutions Architect"* - Strengthening my cloud fundamentals.
 
 ---
