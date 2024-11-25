@@ -64,7 +64,7 @@ Welcome to my GitHub! I'm a **Cloud Engineer** with a strong focus on **AWS** an
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/ajokekeshiro)
+- 💼 [LinkedIn](https://wwww.linkedin.com/in/ajokekeshiro)
 - 🌐 [Personal Blog](https://ajokekeshiro.com/)
 - 📧 [Email Me](mailto:ajkeshy@gmail.com)
 
